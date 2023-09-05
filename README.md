@@ -1,2 +1,2 @@
 # JavaScript-1
-10 Question &amp; Answer
+10 Question  Answer
